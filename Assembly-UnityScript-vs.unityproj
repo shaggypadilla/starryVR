@@ -55,20 +55,27 @@
      <Compile Include="Assets\LeanTween\LeanTweenExamples\Scripts\TestingAllJS.js" />
      <Compile Include="Assets\LeanTween\LeanTweenExamples\Scripts\UIExampleJS.js" />
      <None Include="Assets\Resources\SkyboxMesh.shader" />
+     <None Include="Assets\ProCore\ProGrids\Shader\pg_GridShader.shader" />
      <None Include="Assets\LeanTween\LeanTweenExamples\Shader\2dUnlitWithFade.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\LeanTween\LeanTween-ReadMe.txt" />
+     <None Include="Assets\ProCore\ProGrids\About\pc_AboutEntry_ProGrids.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\ProCore\Shared\About\README.txt" />
      <None Include="Assets\PrimitivePlus\Documentation\ReadMe.txt" />
      <None Include="Assets\Resources\GUIScreen.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Elementals\!Readme.txt" />
+     <None Include="Assets\ProCore\ProGrids\About\changelog.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/bonnieyu/Desktop/virtualReality/starryVR/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="ProCore">
+ <HintPath>/Users/bonnieyu/Desktop/virtualReality/starryVR/Assets/ProCore/Shared/Code/ProCore.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
